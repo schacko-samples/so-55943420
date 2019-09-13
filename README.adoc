@@ -9,6 +9,6 @@ Make sure you have Kafka broker running. The application expects it to be on def
 
 `./mvnw clean package`
 
-Start the application preferrably in an IDE.
+Run the application (CLI or IDE).
 
-Watch the logs on startup to examine the topology generated.
+Watch the logs on the startup to examine the topology generated.
